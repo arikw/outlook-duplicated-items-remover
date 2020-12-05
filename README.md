@@ -1,6 +1,6 @@
 # Outlook Duplicated Items Remover
 
-This script finds and moves duplicated items in outlook folders
+This script finds and moves duplicated items in selected outlook folders
 
 ## How to Use
 
